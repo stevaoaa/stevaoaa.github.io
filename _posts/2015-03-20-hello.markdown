@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Hello World"
+date:   2015-03-20 15:36:35
+categories: 
+---
+
+## Hello World
+
+Hello! 
+
+Recently I created this blog as part of the requirements to successfully completing the course "SCC5933-2 / 1 Scientific Research Methodology in Computer Science".
+
+I will use this space to share my research experiences, as well  all the material produced in this journey.
+
+Finally, I will also use this space to train my English writing skills. Therefore, it is natural to find some typos and perhaps strange sentences.
+
+Feel free to fork this project on my [Github page](https://github.com/stevao-andrade) and suggest corrections.
+
+To know a little bit more about me, please follow to the [about section](/about.html).
+
+ 
+
