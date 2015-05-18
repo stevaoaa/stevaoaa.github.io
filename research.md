@@ -36,7 +36,7 @@ This section will provide some userful information about the projects that i'm i
 development and thus research to improve their application are important. The mutation testing has been considered one of the most effective criteria to reveal defects however the high cost of implementation restricts its use. These reasons motivated the development of this project. 
 
 
-To suport the experiments in this project we use a collection of 39 programs developed in C language. The core of this project was developed using Python language and [PyZMQ](http://zeromq.org/) framework. All the source is available to download at my [GitHub repository](https://github.com/stevao-andrade/parallel_proteum).
+To suport the experiments in this project we use a collection of 39 programs developed in C language. The core of this project was developed using Python language and [PyZMQ](http://zeromq.org/) framework. All the source is available to download at my [GitHub repository](https://github.com/stevao-andrade/parallel-proteum).
 
 [![Proteum Parallel Execution](/img/pproteum.jpg)](https://www.youtube.com/watch?v=0cPcyZBNBio "Proof of Concept - Proteum Parallel Execution ")
 
