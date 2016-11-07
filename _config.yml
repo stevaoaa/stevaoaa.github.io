@@ -12,6 +12,10 @@ sass:
   style: :compressed
 paginate: 5
 paginate_path: "page:num"
+
+##Fix pagination problem after update jekyll to 3.0 version
+gems: [jekyll-paginate]
+
 ##The website description (to be used in meta tags)
 description: This blog will be used to share some informations about my researchs
 ##Some frequently used keywords on your website
@@ -36,3 +40,5 @@ links:
 about_image: placeholder.jpg
 ##comment this if you want full width posts with no sidebar
 sidebar: on
+
+
