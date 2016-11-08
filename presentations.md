@@ -10,6 +10,14 @@ sitemap:
 
 In this section i will provide the content used in presentations made during my research. Some presentations are made during workshops or paper conferences and anothers are part of the educational improvement program developed by de Universy of São Paulo.
 
+* Software Testing Course[[slides]](https://www.dropbox.com/s/aara225vbml4f06/eripi.zip?dl=0)
+
+> Over the years, several techniques and test criteria have been proposed in the literature, seeking ways to systematize and increase the quality of the test activity. However, when analyzing the curricula of higher academic education in the area of computing, there is a great gap in the practice of teaching content specifically aimed at software testing.
+
+* Master's defense[[slides]](https://www.dropbox.com/s/iopb0klkqr6clyd/defesa.pdf?dl=0)
+
+> Slides used during my master's defense.
+
 * I Workshop on Distributed Computing [[slides]](https://www.dropbox.com/s/xyap5ty6sgoh01m/WDC2014-slide_stevao_versao_final.pdf?dl=0)
 
 > The event aimed to provide a distributed computing research discussion forum, involving different business lines such as cloud computing, transactional memories, web services, internet of things, testing of concurrent programs, performance evaluation of distributed computer systems distributed applications and for the treatment of big data.

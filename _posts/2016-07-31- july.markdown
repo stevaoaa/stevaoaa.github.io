@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "New Goals"
+date:   2016-07-31 18:00:00
+categories: 
+---
+
+## New Goals
+
+After successfully defended my Master's, i start to work in a project to apply as a PhD candidate at ICMC. After some meetings with my advisor, we came to a conclusion about the main goal of the project. We decide to investigate new software testing techiniques to apply  in the context of programs that make use of Virtual Reality.
+
+Since i don't have backgroud in the area, in the first semester of 2017 i take an course at [School of Arts, Sciences and Humanities of the University of São Paulo](http://www5.each.usp.br/). The course (SIN5114 - Fundamentals of Graphic Processing) was taught by prof. PhD. Fátima L. S. Nunes.
+
+In the course we saw a basic overview of image processing, computer graphics and virtual reality. During the course i developed some things that are avaliable in my [github repository](www.github.io/stevao-andrade). 
+
+More specifically:
+
+* [SIN5114](https://github.com/stevao-andrade/SIN5014) - A software that implements some fundamental filters used in image processing.  The aim of this project is to develop a set of filters to help tasks related to digital image processing.
+
+
+
+* [Java3DMutator](https://github.com/stevao-andrade/java3Dmutator) - A proof of concept tool to visualize mutants generated for programs that use java3d lib.
+
+In the future I hope to do other courses specifically focused on the context of virtual reality, so that I have more security regarding my new research project.
