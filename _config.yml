@@ -2,8 +2,11 @@
 name: Stevão Andrade
 ##Markdown processor
 markdown: kramdown
+
 ##syntax highlighter. change it to pygments
-highlighter: pygments
+##highlighter: pygments do not suported in github pages, change to rouge
+
+rouge: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url: /site
