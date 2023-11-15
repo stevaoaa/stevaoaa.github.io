@@ -1,4 +1,106 @@
-name: Stevão A. Andrade
-kramdown:
-  syntax_highlighter: coderay
-repository: stevaoaa/stevaaao.github.io
+# Reference: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#remote-theme-method
+# Reference: https://github.com/mmistakes/mm-github-pages-starter
+# Reference: https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+# Reference: https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
+
+title: Stevão Andrade
+locale: en-US
+url: https://stevaoaa.github.io
+repository: stevaoaa/stevaoaa.github.io
+description: >-
+  Stevão Andrade.
+  Software Engineer/Test Engineer.
+  Java, Python, Testing, Backend Development.
+  Living in São Carlos.
+minimal_mistakes_skin: default
+search: true
+encoding: utf-8
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes@4.23.0
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+timezone: America/Sao_Paulo
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+author:
+  name: Stevão Andrade
+  location: São Carlos, Brasil
+  email: stevao.andrade@gmail.com
+  avatar: /assets/images/bio-photo.jpg
+  bio: Software Engineer/Test Engineer. Java, Python, Testing, Backend Development.
+  links:
+    - label: CV
+      icon: fas fa-fw fa-file-pdf
+      url: /cv/cv-stevao.pdf
+    - label: Twitter
+      icon: fab fa-fw fa-twitter-square
+      url: https://twitter.com/stevao_andrade
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/stevaoaa
+    - label: Linkedin
+      icon: fab fa-fw fa-linkedin
+      url: https://www.linkedin.com/in/stevaoaa/
+    #- label: Stack Overflow
+      #icon: fab fa-fw fa-stack-overflow
+      #url: https://stackoverflow.com/users/00000000
+
+footer:
+  links:
+    - label: Twitter
+      icon: fab fa-fw fa-twitter-square
+      url: https://twitter.com/stevao_andrade
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/stevaoaa
+    - label: Linkedin
+      icon: fab fa-fw fa-linkedin
+      url: https://www.linkedin.com/in/stevaoaa/
+    #- label: Stack Overflow
+      #icon: fab fa-fw fa-stack-overflow
+      #url: https://stackoverflow.com/users/00000000
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+  - scope:
+      path: _pages
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+compress_html:
+  clippings: all
+#  ignore:
+#    envs: development
+
+analytics:
+  provider: google-gtag
+  google:
+    tracking_id: UA-63153932-2
+    anonymize_ip: false
