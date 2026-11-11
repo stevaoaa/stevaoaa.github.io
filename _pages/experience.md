@@ -46,7 +46,7 @@ Content production and teaching for the undergraduate courses Software Testing a
 Supervised students' online activities and guided teaching mediators.
 
 ### IT Advisor · CRA-PI
-*Teresina, Brazil · 2012*
+*Teresina, Brazil · Feb 2012 – Dec 2012*
 
 Built process-control systems and reporting automation (Java, Python, MySQL, JEE), supervised interns, and set up the institution's network infrastructure.
 
