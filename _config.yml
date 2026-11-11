@@ -8,10 +8,9 @@ locale: en-US
 url: https://stevaoaa.github.io
 repository: stevaoaa/stevaoaa.github.io
 description: >-
-  Stevão Andrade.
-  Software Engineer/Test Engineer.
-  Java, Python, Testing, Backend Development.
-  Living in São Carlos.
+  Stevão Andrade. Senior Software Engineer and software testing specialist.
+  Ph.D. in Computer Science (USP). Backend, cloud security, test automation,
+  metamorphic and mutation testing.
 minimal_mistakes_skin: default
 search: true
 encoding: utf-8
@@ -34,6 +33,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor/
+  - curriculum_stevao.pdf
+  - lattes.pdf
 
 plugins:
   - jekyll-paginate
@@ -44,14 +45,20 @@ plugins:
 
 author:
   name: Stevão Andrade
-  location: São Carlos, Brasil
+  location: Teresina, Brasil
   email: stevao.andrade@gmail.com
   avatar: /assets/images/bio-photo.jpg
-  bio: Software Engineer/Test Engineer. Java, Python, Testing, Backend Development.
+  bio: Senior Software Engineer & software testing specialist. Ph.D. in Computer Science (USP).
   links:
     - label: CV
       icon: fas fa-fw fa-file-pdf
       url: /cv/cv-stevao.pdf
+    - label: Google Scholar
+      icon: fas fa-fw fa-graduation-cap
+      url: https://scholar.google.com/citations?user=8pvtUwkAAAAJ
+    - label: Lattes
+      icon: fas fa-fw fa-id-card
+      url: http://lattes.cnpq.br/3305610198303147
     - label: X
       icon: fab fa-fw fa-x-twitter
       url: https://x.com/stevao_andrade
