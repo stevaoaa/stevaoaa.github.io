@@ -11,7 +11,7 @@ Personal website and blog of **Stevão Andrade**, a Senior Software Engineer and
 
 - [Jekyll](https://jekyllrb.com/) 4.4
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme
-- GitHub Pages, deployed by [GitHub Actions](.github/workflows/pages.yml) on every push to `master`
+- GitHub Pages, deployed by [GitHub Actions](.github/workflows/pages.yml) on every push to `main`
 - Dependabot for monthly gem and action updates
 
 ## Structure
