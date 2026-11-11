@@ -23,7 +23,7 @@ Personal website and blog of **Stevão Andrade**, a Senior Software Engineer and
 ├── _posts/              # Blog posts (YYYY-MM-DD-title.md)
 ├── _includes/           # Theme overrides (footer, favicons)
 ├── assets/images/       # Avatar and favicons
-└── cv/                  # CV PDF and its LaTeX source (Awesome-CV)
+└── cv/cv-stevao.pdf     # CV (generated on Overleaf)
 ```
 
 ## Running locally
@@ -59,13 +59,13 @@ tags:
 Content in Markdown.
 ```
 
-## Building the CV
+## Updating the CV
 
-The CV uses the [Awesome-CV](https://github.com/posquit0/Awesome-CV) template and is compiled with XeLaTeX:
+The CV's LaTeX source lives on **Overleaf**, which is the source of truth. This repo only stores the compiled PDF. To update it:
 
-```sh
-cd cv && xelatex cv.tex && mv cv.pdf cv-stevao.pdf
-```
+1. Download the PDF from Overleaf.
+2. Replace `cv/cv-stevao.pdf` with it.
+3. Commit and push. The site redeploys automatically.
 
 ## License
 
