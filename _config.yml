@@ -33,6 +33,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor/
+  - README.md
   - curriculum_stevao.pdf
   - lattes.pdf
 
